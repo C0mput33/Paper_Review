@@ -18,7 +18,7 @@ If you have questions or suggestions, please open an issue in this repository.
 ## Computer Vision
 
 - #### End-to-End Object Detection with Transformers (DETR, ECCV 2020)  
-   - **[Original Paper Link](https://arxiv.org/abs/2005.12872)** / Paper Review Notion Link / Liview PDF / Code Practice
+   - **[Original Paper Link](https://arxiv.org/abs/2005.12872)** / **[Paper Review Notion Link](https://www.notion.so/2025-11-25-End-to-End-Object-Detection-with-Transformer-2b6f11752bf180c9ba9dd8edf61ca9b6?source=copy_link)** / Liview PDF / Code Practice
 
 
 
